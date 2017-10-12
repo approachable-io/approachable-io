@@ -7,17 +7,17 @@ body {
 
 .text-container {
     box-sizing: border-box;
-    padding: 0px 35px;
 }
 
-h1{
+h1 {
     margin-bottom: 0px;
 }
-h2{
+
+h2 {
     margin-top: 0px;
 }
 
-p{
+p {
     font-size: 18px;
 }
 
@@ -27,10 +27,4 @@ img {
     max-width: 350px;
     margin: 0 auto;
     text-align: center;
-}
-
-@media only screen and (max-width: 760px) {
-    body{
-        width: 90%;
-    }
 }
