@@ -13,3 +13,12 @@ img {
     margin: 0 auto;
     text-align: center;
 }
+a.skip-link {
+  position: absolute;
+  top: -99999px;
+  left: -99999px;
+}
+a.skip-link:focus {
+  top: 0;
+  left: 0;
+}
