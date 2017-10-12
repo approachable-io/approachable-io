@@ -1,12 +1,12 @@
 body {
-    height: 100vh;
-    width: 70%;
-    margin: 5% auto 0;
     font-family: sans-serif;
 }
 
 .text-container {
     box-sizing: border-box;
+    width: 90%;
+    max-width: 980px;
+    margin: 5px auto 0;
 }
 
 h1 {
